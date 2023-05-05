@@ -9,7 +9,7 @@ I have been self-taught for the past 1 and a half years and have focused on fron
 * 🌍  I'm based in Madrid
 * 🖥️  See my portfolio at [Portfolio](http://lpc-portfolio.netlify.app/)
 * ✉️  You can contact me at [lpc\_dev@outlook.com](mailto:lpc_dev@outlook.com)
-* 🧠  I'm learning next.js and C#
+* 🧠  I'm learning NextJS and C#
 * 🤝  I'm open to collaborating on anything that I can!
 
 ### Skills
