@@ -1,7 +1,7 @@
 Hi 👋 My name is Lucas!
 =======================
 
-Front-End Developer and Designer
+Junior Software Developer
 --------------------------------
 
 I'm a self-taught developer specializing in building (and occasionally designing) exceptional digital experiences, with modern designs, using the latests technologies. I am currently focused on web development using JS and React, but have also programmed in Java, Swift, and Python. My background in architecture and design has given me a unique perspective on how to approach projects, with a focus on creative problem-solving and attention to detail. I am particularly interested in the intersection of design and technology. I am currently working as a Junior Software Developer but I am always open to new opportunities.
